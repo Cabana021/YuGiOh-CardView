@@ -2,6 +2,9 @@
 
 > Uma aplicação web moderna construída com React e Vite para navegar, pesquisar e filtrar o vasto universo de cartas de Yu-Gi-Oh!
 
+🌐 O site já está no ar:  
+Acesse em **[yu-gi-oh-card-view.vercel.app](https://yu-gi-oh-card-view.vercel.app/)** e explore as cartas direto do navegador.
+
 ![Imagem da Página Principal](screenshots/main_screen.png)
 _Tela principal com a galeria e as ferramentas de busca e filtro._
 
